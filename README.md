@@ -1,18 +1,33 @@
 # Marketplace Item Prep Docs
 
+![Marketplace Item Prep banner](assets/banner.png)
+
 Marketplace Item Prep is a Roblox Studio plugin for faster, cleaner thumbnail prep for Marketplace avatar items.
 
-This public repository contains user-facing documentation for the current `Lite` and `Pro` releases. It does not try to mirror the full internal architecture or planning docs used during development.
+This repository contains the public documentation for the current `Lite` and `Pro` releases.
 
-## What The Plugin Helps With
+## Quick Links
 
-- prepare cleaner item thumbnails in Roblox Studio
-- switch between `World Shot` and `Stage Shot`
-- frame the current item faster with presets plus `Frame` and `Reset`
-- keep preview work non-destructive during composition
-- use stronger single-item composition tools in `Pro`
+- [Getting Started](docs/getting-started.md)
+- [Lite vs Pro](docs/lite-vs-pro.md)
+- [Known Limits](docs/known-limits.md)
+- [FAQ](docs/faq.md)
+- [Changelog](docs/changelog.md)
 
-## Public Scope
+## Creator Store
+
+- Lite: https://create.roblox.com/store/asset/110282109131622/Marketplace-Item-Prep-Lite
+- Pro: https://create.roblox.com/store/asset/113997947078434/Marketplace-Item-Prep-Pro
+
+## What It Helps With
+
+- faster thumbnail prep inside Roblox Studio
+- cleaner scene setup through `World Shot` and `Stage Shot`
+- quicker framing with presets plus `Frame` and `Reset`
+- non-destructive preview workflow during composition
+- stronger single-item polish and control in `Pro`
+
+## Public Release Scope
 
 ### Lite
 
@@ -42,20 +57,7 @@ It adds:
 - `Scene Presets`
 - `Safe Framing Guardrail`
 
-## Documentation
-
-- [Getting Started](docs/getting-started.md)
-- [Lite vs Pro](docs/lite-vs-pro.md)
-- [Known Limits](docs/known-limits.md)
-- [FAQ](docs/faq.md)
-- [Changelog](docs/changelog.md)
-
-## Creator Store Links
-
-- Lite: https://create.roblox.com/store/asset/110282109131622/Marketplace-Item-Prep-Lite
-- Pro: https://create.roblox.com/store/asset/113997947078434/Marketplace-Item-Prep-Pro
-
 ## Support
 
 - For plugin support or bug reports, open Marketplace Item Prep in Roblox Studio and use `Help > Contact Support`.
-- This public repository is for documentation only.
+- This repository is for public documentation.
